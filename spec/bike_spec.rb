@@ -1,4 +1,4 @@
-require 'docking_station_class'
+require 'bike'
 
 describe Bike do
 
